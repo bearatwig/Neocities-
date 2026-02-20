@@ -17,4 +17,4 @@ jobs:
         with:
           api_token: ${{ secrets.neocities_api }}
           cleanup: false        
-          dist_dir: .         
+          dist_dir: public        
